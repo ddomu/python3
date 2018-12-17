@@ -1,0 +1,3 @@
+# MAC table collect 
+ 2000 devices. 
+ run ansible for several groups 나누어 Parallel 실행 
