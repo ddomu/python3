@@ -12,3 +12,4 @@ Did you install mysqlclient?
 
 (tutorial-env) [root@mrpdcnnetapp footprint]# sudo yum install MySQL-python
 
+resolution: pip install mysqlclient 
