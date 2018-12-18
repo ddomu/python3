@@ -1,6 +1,9 @@
 [Book] 파이썬 3에 뛰어들기
 https://blog.outsider.ne.kr/1296/ 
 
+Python의 미래, Python 3로 넘어가기
+https://tech.ssut.me/python-3-is-the-future/
+
 
 장고
 [책] Two Scoops of Django
