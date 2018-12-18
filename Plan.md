@@ -30,4 +30,25 @@ device_ip, vrf_name, arp_ip, arp_mac, arp_if
  return list [ ]  
  
  
+
 # Save MAC to DB 
+
+ file directory : ~/data/mac/* 
+ 
+ get_mac for all file 
+ ```
+ get_mac.py 
+ 
+ ```
+ return list [ ]  
+
+
+(tutorial-env) [hpark84@mrpdcnnetapp parse]$ python
+Python 3.6.5 (default, Jul 25 2018, 21:22:33) 
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-28)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from get_mac import *
+>>> mac_list = get_macs()
+>>> len(mac_list)
+860475
+??? max limit to push mysql query 
