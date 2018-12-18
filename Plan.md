@@ -52,3 +52,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> len(mac_list)
 860475
 ??? max limit to push mysql query 
+real	3m51.752s
+user	0m31.614s
+sys	0m7.525s
+
