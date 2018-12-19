@@ -2,6 +2,8 @@
 Django-filter
 https://django-filter.readthedocs.io/en/master/index.html
 
+page
+https://devissue.wordpress.com/2015/02/24/pycharm과-함께-django와-restframework를-활용하여-간단한-게시판-만들기2/
 
 awesome Django
 https://gitlab.com/rosarior/awesome-django
