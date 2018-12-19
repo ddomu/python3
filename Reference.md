@@ -1,3 +1,8 @@
+# Django + React 
+## django-webpack-loader
+https://medium.com/uva-mobile-devhub/set-up-react-in-your-django-project-with-webpack-4fe1f8455396
+
+
 #Django install app
 Django-filter
 https://django-filter.readthedocs.io/en/master/index.html
