@@ -21,6 +21,10 @@ device_ip, vrf_name, arp_ip, arp_mac, arp_if
 list view 
 
 ```
+## DRF ( Rest API framework ) 
+* ArpTable
+* MacTable
+
 
 
 # Save ARP to DB
