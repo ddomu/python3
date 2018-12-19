@@ -25,6 +25,8 @@ list view
 * ArpTable
 * MacTable
 
+GetARP/MACtable search result first 10 
+news = News.objects.order_by("-date")[:10] 
 
 
 # Save ARP to DB
