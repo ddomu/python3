@@ -17,7 +17,11 @@
 ```
 device_ip, vrf_name, arp_ip, arp_mac, arp_if 
 
+#### Views.py
+list view 
+
 ```
+
 
 # Save ARP to DB
  file directory : ~/data/arp/* 
@@ -55,4 +59,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 real	3m51.752s
 user	0m31.614s
 sys	0m7.525s
+
+
+### TO- DO 
+ distribute of ansible running for several groups  +2,200 devices 
+ 
+
 
