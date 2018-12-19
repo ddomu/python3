@@ -1,3 +1,11 @@
+#Django install app
+Django-filter
+https://django-filter.readthedocs.io/en/master/index.html
+
+
+awesome Django
+https://gitlab.com/rosarior/awesome-django
+
 [Book] 파이썬 3에 뛰어들기
 https://blog.outsider.ne.kr/1296/ 
 
