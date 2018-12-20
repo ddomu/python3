@@ -1,3 +1,6 @@
+# Django Pagenation
+https://wayhome25.github.io/django/2017/05/02/CBV/
+
 # Django+VUE 
 ## Grid component 
 https://kr.vuejs.org/v2/examples/grid-component.html
