@@ -1,4 +1,12 @@
 # Get ARP/ MAC 
+##---------------- PHASE 2 -----------------#
+Add F5 arp
+mac address input form - any format 
+Ansible/ python cron job 
+
+
+##---------------- PHASE 1 -----------------# 
+
 ## method : Ansible 
 #### ARP 
  1. BGP neighbor from Edge 
