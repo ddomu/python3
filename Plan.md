@@ -1,5 +1,6 @@
 # Get ARP/ MAC 
 ##---------------- PHASE 2 -----------------#
+### To Do List (by Order of Importance) 
 Add Palo Alto and F5 arp
 Get switches interface Access port / Trunk Port 
 CSV Export 
