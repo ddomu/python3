@@ -1,11 +1,14 @@
 # Get ARP/ MAC 
 ##---------------- PHASE 2 -----------------#
-Add F5 arp
+Add Palo Alto and F5 arp
+Get switches interface Access port / Trunk Port 
+CSV Export 
+VRF Dropdown 
 mac address input form - any format 
-Ansible/ python cron job 
 
 
 ##---------------- PHASE 1 -----------------# 
+Ansible/ python cron job 
 
 ## method : Ansible 
 #### ARP 
