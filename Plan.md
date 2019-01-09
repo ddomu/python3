@@ -1,10 +1,11 @@
 # Get ARP/ MAC 
 ##---------------- PHASE 2 -----------------#
+
 ### To Do List (by Order of Importance) 
-Add Palo Alto and F5 arp
-Get switches interface Access port / Trunk Port 
-CSV Export 
-VRF Dropdown 
+1. Add Palo Alto and F5 arp
+2. Get switches interface Access port / Trunk Port 
+3. CSV Export 
+4. VRF Dropdown 
 mac address input form - any format 
 
 
