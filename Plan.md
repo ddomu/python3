@@ -8,6 +8,16 @@
 4. VRF Dropdown 
 mac address input form - any format 
 
+### Palo Arp 
+' key 
+LUFRPT1acEhZN2pkalRobWE3V2szb29kaWdPMVQrWU09SFZRbzVIamtRR0VyQmJLRWQ0RFljeHIxZyswSnZieWE1ajVTT2RJT1NRbz0=
+
+https://10.181.101.60/  https://10.181.101.61/
+https://10.200.84.14/   https://10.200.84.15
+
+
+https://10.181.101.61/api/?&type=op&cmd=%3Cshow%3E%3Carp%3E%3Centry+name+%3D+%27all%27%2F%3E%3C%2Farp%3E%3C%2Fshow%3E&key=LUFRPT1acEhZN2pkalRobWE3V2szb29kaWdPMVQrWU09SFZRbzVIamtRR0VyQmJLRWQ0RFljeHIxZyswSnZieWE1ajVTT2RJT1NRbz0=
+
 
 ##---------------- PHASE 1 -----------------# 
 Ansible/ python cron job 
